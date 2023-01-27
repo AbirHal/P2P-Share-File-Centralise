@@ -27,3 +27,5 @@ python3 client.py
 4. Server runs at port 3456. Change port if port is busy in server.py and client.py file.
 
 # Screenshots
+
+![screen](https://user-images.githubusercontent.com/77001053/215157885-cbf909cc-6256-4744-a098-27cbe9e04a36.png)
