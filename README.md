@@ -12,7 +12,7 @@ python code for peer to peer file sharing system.
 Follow given steps
 1. Clone or Download the repository.
 
-git clone https://github.com/sarthakeddy/P2P-Share-File.git
+git clone https://github.com/sarthakeddy/P2P-Share-File-Centralise.git
 
 cd P2P-Share-File
 
